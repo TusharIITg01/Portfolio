@@ -1,0 +1,6 @@
+Tushar Soni Portfolio — 2026
+
+This portfolio is a new static implementation created for Tushar Soni.
+The original first-year portfolio used the HTML5 UP “Paradigm Shift” template.
+Original template credit: AJ / HTML5 UP — https://html5up.net/
+The original template was distributed under the Creative Commons Attribution 3.0 Unported license.
